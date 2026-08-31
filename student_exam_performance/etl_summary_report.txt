@@ -1,0 +1,28 @@
+Student Exam Performance ETL Summary
+===================================
+
+Input rows: 100000
+Input columns: 44
+Cleaned rows: 100000
+Cleaned columns: 47
+Missing values remaining after cleaning: 0
+Database rows: 100000
+Charts generated: correlation_matrix.png, grade_distribution.png, score_vs_difficulty.png
+
+Performance grade summary:
+  - A: avg_exam_score=91.66, avg_accuracy_rate=0.9155, total_count=7519
+  - B: avg_exam_score=79.38, avg_accuracy_rate=0.7937, total_count=13190
+  - C: avg_exam_score=69.74, avg_accuracy_rate=0.6975, total_count=21794
+  - D: avg_exam_score=57.82, avg_accuracy_rate=0.5783, total_count=34886
+  - F: avg_exam_score=40.77, avg_accuracy_rate=0.4077, total_count=22611
+
+Top study methods by score:
+  - Self-Reading: avg_exam_score=63.24
+  - Practice Tests: avg_exam_score=63.15
+  - Flashcards: avg_exam_score=63.04
+  - Summarizing: avg_exam_score=63.01
+  - Group Study: avg_exam_score=62.86
+
+High-risk count by pass status:
+  - Fail: high_risk_count=1562
+  - Pass: high_risk_count=1349

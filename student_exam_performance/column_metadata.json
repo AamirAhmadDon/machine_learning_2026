@@ -1,0 +1,68 @@
+{
+  "numeric_bounds": {
+    "age": [0, 100],
+    "previous_exam_score": [0, 100],
+    "previous_gpa": [0.0, 4.0],
+    "attendance_percentage": [0.0, 100.0],
+    "assignment_completion_rate": [0.0, 100.0],
+    "study_hours_per_day": [0.0, 24.0],
+    "self_study_hours": [0.0, 24.0],
+    "private_tuition": [0, 10],
+    "online_learning_hours": [0.0, 24.0],
+    "sleep_hours": [0.0, 24.0],
+    "daily_screen_time": [0.0, 24.0],
+    "physical_activity_hours": [0.0, 24.0],
+    "stress_level": [0, 10],
+    "questions_attempted": [0, 100],
+    "questions_correct": [0, 100],
+    "time_management_score": [0.0, 10.0],
+    "exam_anxiety_level": [0, 10],
+    "exam_score": [0.0, 100.0],
+    "accuracy_rate": [0.0, 1.0]
+  },
+  "categorical_values": {
+    "class_participation": ["Low", "Medium", "High"],
+    "break_frequency": ["Rarely", "Occasionally", "Frequently"],
+    "motivation_level": ["Low", "Medium", "High"],
+    "gender": ["Female", "Male", "Other"],
+    "education_level": [
+      "High School",
+      "Undergraduate",
+      "Graduate",
+      "Postgraduate",
+      "Primary",
+      "Middle School"
+    ],
+    "school_type": ["Public", "Private", "Charter", "International"],
+    "family_income": ["Low", "Middle", "High"],
+    "urban_rural": ["Urban", "Suburban", "Rural"],
+    "parent_education": [
+      "High School",
+      "Bachelor",
+      "Master",
+      "Doctorate",
+      "Unknown"
+    ],
+    "study_environment": ["Quiet", "Moderate", "Noisy", "Unknown"],
+    "study_method": [
+      "Flashcards",
+      "Summarizing",
+      "Self-Reading",
+      "Practice Tests",
+      "Group Study",
+      "Active Recall",
+      "Concept Maps",
+      "Unknown"
+    ],
+    "revision_frequency": ["Rarely", "Weekly", "Daily", "Occasionally", "Unknown"],
+    "study_consistency": ["Low", "Medium", "High", "Unknown"],
+    "notes_quality": ["Poor", "Average", "Good", "Excellent", "Unknown"],
+    "sleep_quality": ["Poor", "Fair", "Average", "Good", "Excellent", "Unknown"],
+    "device_availability": ["Dedicated", "Shared", "Unknown"],
+    "internet_access": ["Yes", "No", "Unknown"],
+    "performance_grade": ["A", "B", "C", "D", "F", "Unknown"],
+    "pass_status": ["Pass", "Fail", "Unknown"],
+    "performance_level": ["High", "Medium", "Low", "Unknown"],
+    "exam_difficulty": ["Easy", "Medium", "Hard", "Unknown"]
+  }
+}
