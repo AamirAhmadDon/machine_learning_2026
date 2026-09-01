@@ -1,0 +1,8 @@
+{
+    "input_file": "pii_dataset.csv",
+    "database_file": "pii_database.db",
+    "log_file": "etl.log",
+    "random_seed": 42,
+    "anomaly_contamination": 0.05,
+    "visualizations_dir": "visualizations"
+}

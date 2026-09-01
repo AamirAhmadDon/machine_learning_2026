@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Generated database and logs
+*.db
+*.sqlite
+*.log
+
+# Generated visualizations
+visualizations/
+
+# Sensitive data - DO NOT COMMIT
+pii_dataset.csv
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
