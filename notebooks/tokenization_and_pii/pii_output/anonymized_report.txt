@@ -1,0 +1,88 @@
+
+===== PREAMBLE =====
+Uncovering the <ORG> bias, It’s Roots and the Mitigation for a Fair Generative and <ORG>
+<PERSON> of Westminster(The <ORG>, <PERSON>)
+<EMAIL>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+This paper dives into the permeating and widespread issue of biasness in <ORG> and Decision making AI systems. pulling form various multidisciplinary fields such as technical analysis, real-life case studies, policy making and discussions, this journal unmasks and outlines how biasness can originate form structural and logical models, training data, institutional practices to name a few. It outlines the importance of ethical and socio-economical consequences of biased AI deployment.
+Putting a major impact on discussing mitigation strategies, highlighting the necessity for regulatory oversights, inclusivity in the design and the training data and lastly it's explainability.
+In summary, the paper argues for a multi-stakeholder approach and holistic approach for fostering fairness and accountability in further <ORG> systems.  
+
+Introduction
+AI especially <ORG> architecture based models are rapidly being embedded in decision-making processes across a wide span of sectors. from HR and hiring to healthcare and even in content generation. Overlooking it's potential, there is a serious risk when embedded with biases that uphold and encourages societal inequalities. AI bias can stem from the draining data, Structural design, prototyping and implementation or operational deployment (<REDACTED>, <REDACTED>). We shall further investigate the cause, consequences and possible remedies for both generative and deterministic AI systems.
+
+Origin of <ORG> and Real World Impacts
+AI bias often stems from historical inequities found in the training data or flawed assumptions in the models. In Ericsson(2021) the author <PERSON> emphasizes that the dataset lacking dataset lacking demographic diversity may encourage stereotyping. 
+A notable example is <ORG>'s recently scrapped <ORG> hiring tool that automatically revoked resumes with keywords such as "Women's Chess Club". Something it picked up from the dataset it was trained on.
+Similarly <ORG>'s work on using <ORG> to address the racial wealth gap provides a concise evidence. The researchers indicate how AI systems trained on historical data for hiring or economics  plays a pivotal role in creating disparities—even when they omit racial indicators as the proxy variables)such as university and locations) go hand to hand with race.
+Structural barriers such as the above limit access to wider opportunities and weak social networking promote hinderance to improvise the outcomes and such patterns are mirrored in biased tools. Algorithms critically trained on Status-quo data may self replicate or exacerbate the wealth divide, further contradicting the <ORG>'s promise for equity and equality.
+
+
+
+<ORG> and Roles of Explainable AI
+Explainable AI (XAI) enables transparency and trust. XAI is primarily based on Interpreting, Explaining and Visualizing Deep Learning. Offering a rigorous introduction to XAI techniques such as: 
+Layer wise Relevance Propagation
+SHAP
+LIME
+further outlining how to incorporate these practices and policies in the final model evaluation. It emphasizes on human-centered principles such as clarity, accuracy, fidelity and confidence to encourage fairness and trust.
+
+Mitigating Strategy 
+In order to tackle the <ORG> bias, intervention throughout the system lifecycle is crucial. Pre-deployment tools like the bias impact the statements and the regulatory sandboxes aid in assessing as well as containing the risks during the early stages itself. Inclusive datasets and de-biasing techniques prevent the model from being skewed towards preferring a certain demography. SHAP and <ORG> can go hand-in-hand to help reduce the biasness.
+Models with fairness-aware training that uses constraints such as equal opportunities and intersectional analysis ensure outcomes that are impartial throughout diverse groups. Human-in-the-loop oversight in sensitive domains, such as hiring, banking and finance and <ORG>, provides corrective checks against machine-driven decision.
+One of the most overlooked yet pivotal mitigation strategy is incorporating a diverse team of demographic representation. Such diversity promotes the identification of biased assumptions, optimizing the model generalizability throughout the masses, and empowering an ethical decision-making by adding a wide array of cultural and social-economical perspectives.
+Even after deployment, a regular monitoring in during intervals plays a crucial role in detecting bias drift. Methods for user redress and transparency during documentation such as datasheets and model cards, help boost accountability. Formally, creating a cross-functional team and taking part within the impacted communities enhances the fairness by design (Nature, <REDACTED>).
+In the end, emerging legal frameworks such as the EU AI Act pressures on enforcing standards and ethical practices. In tandem, these strategies outline how technical solutions alone are inadequate as unbiased AI requires structural, regulatory and participatory actions.
+
+Conclusion
+Developing accountable and credible AI systems is not only about devising the proper technical solution. It branches out into various diverse streams. Requiring a broader, more systematic and ethical changes. Transparency indicators and determination of bias, as well as tools for explainability, are important; but they exist in social, ethical, and legal contexts that will make them useful.
+In it's core, the effort must be collaborative across the multiple disciplines it is deployed across. Engineers and developers aren't the solely responsible for the ethics of <ORG>. Engineers, social activist, legal players and the user must have equal participation and experiences involved in the process. The inclusion of diverse voices ultimately leads to more holistic design that considers the human impact.
+We also need transparency related to documenting AI systems — model cards or datasheets come to mind here. Transparency is essential for accountability, traceability, and reflection. Transparency is also important in acknowledging that there can be no transparency if transparency is not transparent. If we want to maximize solidarity science and retrieve data on systemic biases, we require transparency. Else biases could be masked and irresponsible systems are potential hazards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+<CITE> L. Hovhan, “AI Bias Mitigation: Detecting Bias in <ORG> and <ORG>,” <URL>, <REDACTED>. Available: <URL>
+ [Accessed: <REDACTED>]
+<CITE> <PERSON>, “Ethics and Discrimination in Artificial intelligence-enabled <ORG>,” <ORG>, <LOC>. 10, no. 1, pp. <REDACTED>, doi: <URL> Available: <URL>
+<CITE> <PERSON>, “AI bias and human rights: Why ethical AI matters,” <URL>, <REDACTED>. Available: <URL>
+<CITE> <PERSON>, <PERSON>, and <PERSON>, “Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms,” <LOC>, <REDACTED>. Available: <URL>
+<CITE> <PERSON>, “AI bias: Unveiling the impact on racial wealth disparity | <ORG>,” <URL>, <REDACTED>. Available: <URL> [Accessed: <REDACTED>]
